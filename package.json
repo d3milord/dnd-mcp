@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Server MCP di sola lettura sul manuale D&D 2024 ITA (DB dnd-omnia su Neon)",
+  "description": "Server MCP di sola lettura sul manuale D&D 2024 ITA (DB Postgres su Neon)",
   "scripts": {
     "dev": "node scripts/dev.js",
     "test": "node scripts/test-client.js"
